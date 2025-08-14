@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/blog</id>
+    <id>https://kaiming-l.github.io/geaflow-website/blog</id>
     <title>GeaFlow Blog</title>
     <updated>2021-08-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <link rel="alternate" href="https://kaiming-l.github.io/geaflow-website/blog"/>
     <subtitle>GeaFlow Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/img/favicon.png</icon>
+    <icon>https://kaiming-l.github.io/geaflow-website/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[mdx-blog-post]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/2021/08/01/mdx-blog-post</id>
-        <link href="https://your-docusaurus-site.example.com/blog/2021/08/01/mdx-blog-post"/>
+        <id>https://kaiming-l.github.io/geaflow-website/blog/2021/08/01/mdx-blog-post</id>
+        <link href="https://kaiming-l.github.io/geaflow-website/blog/2021/08/01/mdx-blog-post"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
         <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
